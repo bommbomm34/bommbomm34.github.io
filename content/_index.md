@@ -9,7 +9,7 @@ Hello, I'm bommbomm34.
 
 {{< cards >}}
   {{< card
-      link="https://bommbomm34.itch.io/latin-defense"
+      link="/projects/latin-defense"
       title="Latin Defense"
       image="/images/latin-defense.svg"
   >}}
