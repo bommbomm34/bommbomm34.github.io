@@ -33,6 +33,8 @@ menu:
     - name: itch.io
       weight: 5
       url: "https://bommbomm34.itch.io"
+      params:
+        icon: itch-io
 
 params:
   navbar:
