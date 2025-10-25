@@ -7,4 +7,4 @@ Hello, I'm bommbomm34. I develop with Kotlin and Godot. I live in Germany and us
 
 ## Contact
 
-E-Mail: [bommbomm34@perhof.org](mailto: bommbomm34@perhof.org)
+E-Mail: bommbomm34@perhof.org
