@@ -39,7 +39,10 @@ menu:
 params:
   navbar:
     displayTitle: true
-    displayLogo: false
+    displayLogo: true
+    logo:
+      path: favicon.svg
+      link: /
 
   footer:
     displayCopyright: false
