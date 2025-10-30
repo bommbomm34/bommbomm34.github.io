@@ -42,6 +42,7 @@ params:
     displayLogo: true
     logo:
       path: favicon.svg
+      dark: favicon-dark.svg
       link: /
 
   footer:

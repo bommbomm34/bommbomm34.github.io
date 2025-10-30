@@ -3,8 +3,6 @@ title: bommbomm34
 toc: false
 ---
 
-Hello, I'm bommbomm34.
-
 ## Explore
 
 {{< cards >}}
