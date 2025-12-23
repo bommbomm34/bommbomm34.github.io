@@ -24,6 +24,7 @@ Download the latest version:
 - [Windows](https://github.com/bommbomm34/latindefense/releases/download/v1.2.0/latindefense.exe)
 - [Linux](https://github.com/bommbomm34/latindefense/releases/download/v1.2.0/latin-defense-linux-amd64)
 - [Android](https://github.com/bommbomm34/latindefense/releases/download/v1.2.0/latindefense.apk)
+- [Ubuntu Touch](https://github.com/bommbomm34/latindefense/releases/download/v1.2.0/bommbomm34.latindefense_1.2.0_arm64.click)
 - [Play online](https://bommbomm34.itch.io/latin-defense)
 <div style="display: flex; gap: 10px; align-items: center;">
   <a href="https://flathub.org/apps/io.github.bommbomm34.latindefense">
@@ -31,6 +32,9 @@ Download the latest version:
   </a>
   <a href="https://bommbomm34.itch.io/latin-defense">
     <img width="240" alt="Available on itch.io" src="https://static.itch.io/images/badge-color.svg"/>
+  </a>
+  <a href="https://next.open-store.io/app/bommbomm34.latindefense/">
+    <img width="240" alt="Download from the OpenStore" src="https://next.open-store.io/badges/en_US.svg"/>
   </a>
 </div>
 
