@@ -48,6 +48,7 @@ params:
     umami:
       serverURL: "https://umami.perhof.org"
       websiteID: "d6e81ce1-cd28-4b7a-99c8-0e021eeeefb5"
+      scriptName: script.js
 
   footer:
     displayCopyright: false
